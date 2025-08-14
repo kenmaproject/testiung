@@ -1,0 +1,27 @@
+{
+    {
+    "name": "portofolio-flowbite",
+    "version": "1.0.0",
+    "description": "A personal portfolio website using Flowbite and Tailwind CSS.",
+    "main": "index.html",
+    "scripts": {
+      "dev": "tailwindcss -i ./src/css/input.css -o ./css/app.css --watch"
+    },
+    "keywords": [
+      "portfolio",
+      "tailwind",
+      "flowbite",
+      "html",
+      "css"
+    ],
+    "author": "Kelvin Pratama",
+    "license": "ISC",
+    "dependencies": {
+      "tailwindcss": "^3.0.23",
+      "flowbite": "^2.3.1"
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.7",
+      "postcss": "^8.4.14"
+    }
+}
