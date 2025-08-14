@@ -7,7 +7,6 @@
 "scripts": {
   "dev": "tailwindcss -i ./src/css/input.css -o ./css/app.css --watch"
 },
-...
     "keywords": [
       "portfolio",
       "tailwind",
