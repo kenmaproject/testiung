@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A personal portfolio website using Flowbite and Tailwind CSS.",
     "main": "index.html",
-    ...
+
 "scripts": {
   "dev": "tailwindcss -i ./src/css/input.css -o ./css/app.css --watch"
 },
